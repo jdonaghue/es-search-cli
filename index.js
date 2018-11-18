@@ -1,3 +1,6 @@
+#!/usr/bin/env node
+'use strict';
+
 const { lstatSync, readdirSync, readFileSync } = require('fs');
 const { join } = require('path');
 
