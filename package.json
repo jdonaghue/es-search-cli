@@ -1,6 +1,6 @@
 {
   "name": "ecma-search-cli",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "CLI for the ecma-search tool",
   "main": "index.js",
   "repository": {
