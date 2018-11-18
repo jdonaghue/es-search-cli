@@ -1,7 +1,7 @@
 const { lstatSync, readdirSync, readFileSync } = require('fs');
 const { join } = require('path');
 
-const search = require('es-search').default;
+const search = require('ecma-search').default;
 const consoleReporter = require('./console');
 
 const fileOrDirectory = process.argv[2];
